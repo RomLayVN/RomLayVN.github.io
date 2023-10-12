@@ -11,7 +11,5 @@
   <ul>
   <li>About me/ Contact me</li>
   <li>Download IOS Application</li>
-  <li>Sign IPA without MacOS</li>
-  <li>Buy Apple Certificate</li>
   </ul>
  
